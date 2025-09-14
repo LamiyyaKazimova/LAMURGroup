@@ -1,0 +1,104 @@
+{
+  "home": "ANA SƏHİFƏ",
+  "projects": "LAYİHƏLƏR",
+  "services": "XİDMƏTLƏR",
+  "partners": "PARTNYORLAR",
+  "company": "HAQQIMIZDA",
+  "contact": "ƏLAQƏ",
+
+  "h-sectiontwo": {
+    "subheading": "2005-DƏN BƏRİ ETİBARI QURURUQ",
+    "title": "Tikintidə Mütəxəssislər, Sizin Mükəmməlliyiniz.",
+    "description": "Tikinti şirkətimiz hər layihədə keyfiyyət və yenilik təqdim etməyə sadiqdir. Təcrübəli mütəxəssislərdən ibarət komandamız müasir texnologiyanı peşəkar sənətkarlıqla birləşdirərək, müştərilərimizin ehtiyaclarına uyğun möhkəm, zərif və davamlı konstruksiyalar yaradır. Dəqiqlik və mükəmməlliyə olan bağlılığımız hər bir layihənin üstün tikinti təcrübələrinə sadiqliyimizin göstəricisi olmasına zəmanət verir.",
+    "whoWeAreTitle": "Biz kimik",
+    "whoWeAreText": "Biz hər layihədə keyfiyyət, yenilik və mükəmməlliyə sadiq olan təcrübəli tikinti mütəxəssislərindən ibarət komandayıq.",
+    "missionTitle": "Missiyamız",
+    "missionText": "Missiyamız müştəri gözləntilərini aşan, yüksək keyfiyyətli, yenilikçi və davamlı strukturlar yaratmaqdır. Bunu edərkən dürüstlük və mükəmməlliyi qoruyuruq."
+  },
+  "h-sectionthree": {
+    "ourheading": "LAYİHƏLƏRİMİZ",
+    "ourtittle": "Sizə Uyğun Xidmətlər",
+    "moreservice": "ƏTRAFLI XİDMƏT"
+  },
+  "service-cart": {
+    "card1": {
+      "title": "Memarlıq və Dizayn Xidmətləri",
+      "text": "Fikirdən gerçəkliyə — mütəxəssis memarlarımız və dizaynerlərimiz sizə uyğun innovativ, funksional və estetik cəhətdən cəlbedici strukturlar yaradır."
+    },
+    "card2": {
+      "title": "Ticarət Tikintisi",
+      "text": "Yüksək keyfiyyətli yaşayış və ticarət məkanlarının inşasında ixtisaslaşmışıq, davamlılıq, təhlükəsizlik və zamansız dizayn təmin edirik."
+    },
+    "card3": {
+      "title": "Struktur Mühəndisliyi və Təhlükəsizlik",
+      "text": "Möhkəm, davamlı və standartlara uyğun tikililər qurmaq üçün qabaqcıl mühəndislik üsullarından istifadə edərək struktur bütövlüyünə və təhlükəsizliyə üstünlük veririk."
+    },
+    "card4": {
+      "title": "Ağıllı Bina Həlləri",
+      "text": "Ekoloji cəhətdən təmiz materiallar və ağıllı texnologiyaları birləşdirərək, müasir davamlılıq standartlarına uyğun enerji səmərəli binalar layihələndiririk."
+    },
+    "card5": {
+      "title": "Təmir və Yenidənqurma",
+      "text": "İstər ev, istər ofis, istərsə də ticarət mülkiyyəti olsun — təmir xidmətlərimizlə məkanınızı yeniləyirik və ona yeni həyat veririk."
+    },
+    "card6": {
+      "title": "Layihə İdarəetməsi və Konsaltinq",
+      "text": "Təcrübəli layihə menecerlərimiz büdcədən icraya qədər hər detala nəzarət edərək vaxtında və səmərəli layihə tamamlanmasını təmin edirlər."
+    }
+  },
+   
+   "ourheading": "BİZİM TARİXİMİZ",
+
+   "ourtittle": "2005-ci ildən etibarən mükəmməllik irsi qururuq.",
+
+ 
+         "WhyChooseUs":{
+          "ourheading": "NİYƏ BİZİ SEÇMƏLİSİNİZ",
+          "ourtittle": "Arzularınızı Gerçəkləşdiririk"
+          } ,
+
+           "faq-subtitle": "SUALINIZ VAR?",
+         "faq-title": "Tez-tez verilən suallar",
+         "why-title": "Xəyallarınızı Gerçəkləşdirin",
+         "our-project": "Layihələrimiz",
+         "our-title": "Təmiz və səliqəli layihələrimizlə tanış olun",
+         "moore": "DAHA ÇOX LAYİHƏ",
+         "back": "Geri Qayıt",
+         
+         "WHY CHOOSE US": "NİYƏ BİZİ SEÇMƏLİSİNİZ",
+         "OUR PARTNERS":"Tərəfdaşlarımız",
+         "view-more": "Daha Çox Bax",
+         "homes": "Ana Səhifə",
+         "projectss": "Layihələr",
+         "servicess": "Xidmətlər",
+         "partnerss": "Partnyorlar",
+         "companys": "Haqqımızda",
+         "contacts": "Əlaqə",
+         "faqs": "Suallar",
+         
+          "city": "Şəhər",
+          "country": "Ölkə",
+          "status": "Tikinti vəziyyəti",
+          "category": "Kateqoriya",
+          "area": "Ümumi Sahə",
+          "clear": "Filtri Təmizlə",
+
+          "filter":"Filtr",
+          "search":"Axtar",
+          "not": "Məlumat tapılmadı",
+          "get": "Layihələri açar sözlə axtarın . . .",
+          "servicesummary":"Bizim tikinti şirkətimiz hər layihədə keyfiyyət və yeniliyi təmin etməyə həsr olunub. Təcrübəli peşəkarlar komandamız müasir texnologiyanı və usta işçiliklə birləşdirərək, müştərilərimizin ehtiyaclarına uyğun möhkəm, zərif və davamlı strukturlar inşa edir. Dəqiqlik və mükəmməlliyə olan sadiqliyimiz hər bir layihənin üstün tikinti praktikalarımıza olan uzunmüddətli bağlılığımızın şahidi olmasına zəmanət verir.",
+          "whoweares":"Biz təcrübəli tikinti peşəkarlarından ibarət komandayıq və hər bir layihəmizdə keyfiyyətə, yeniliyə və mükəmməlliyə sadiqik.",
+          "missions":"Bizim missiyamız müştəri gözləntilərini aşan, yüksək keyfiyyətli, innovativ və davamlı strukturlar inşa etməkdir. Hər layihədə dürüstlük və mükəmməlliyi qoruyaraq bu məqsədə çatırıq.",
+          "ourData":"2010-cu ildə əsasını qoyduğumuzdan bəri,NovaBuild keyfiyyət və innovasiya ilə tikinti standartlarını yenidən müəyyənləşdirməyə sadiqdir.Kiçik bir təşəbbüsdən başlayaraq,müxtəlif sahələrdə uğurlu layihələr təqdim edən etibarlı sənaye liderinə çevrilmişik.Uğurumuz peşəkarlıq,yaradıcılıq və etibarlılıq mədəniyyətinə əsaslanır.Hər bir layihəmiz müştərilərimizin məqsədlərinə uyğun fərdi həllər təqdim etməkdəki sədaqətimizi əks etdirir.Müasir yaşayış komplekslərindən tutmuş iri kommersiya tikililərinə qədər portfelimiz həm çevikliyi,həm də sabitliyi nümayiş etdirir.Gələcəyə baxaraq,davamlı və müasir həllər təqdim etməyə yönəlmişik.NovaBuild sadəcə binalar tikmir—biz gələcək nəsillər üçün dəyər yaradırıq."
+
+
+          
+        
+          
+
+         
+
+
+
+}
